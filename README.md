@@ -1,2 +1,2 @@
 # Tinkers_Rainbow
-add someting to TConstruct
+Add someting to TConstruct
