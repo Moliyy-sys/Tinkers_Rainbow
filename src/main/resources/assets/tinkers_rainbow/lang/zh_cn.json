@@ -1,0 +1,38 @@
+{
+  "item.tinkers_rainbow.blue_steel":"蓝染钢",
+  "item.tinkers_rainbow.raw_blue_steel":"生蓝染钢矿",
+  "item.tinkers_rainbow.green_jelly_ingot":"绿色果冻锭",
+  "item.tinkers_rainbow.indigo_scrap":"靛青碎片",
+  "item.tinkers_rainbow.violet_cube":"紫色立方",
+  "item.tinkers_rainbow.red_nugget":"红色碎粒",
+  "item.tinkers_rainbow.yellow_dust":"黄色粉尘",
+  "item.tinkers_rainbow.orange_gem":"橘子宝石",
+  "item.tinkers_rainbow.rainbow_ingot":"七彩锭",
+  "item.tinkers_rainbow.red_spider_spawn_egg":"焰红蜘蛛刷怪蛋",
+  "item.tinkers_rainbow.molten_blue_steel_bucket": "熔融蓝染钢桶",
+  "item.tinkers_rainbow.molten_orange_gem_bucket": "熔融橙色宝石桶",
+  "item.tinkers_rainbow.molten_red_nugget_bucket": "熔融红色碎粒桶",
+  "item.tinkers_rainbow.molten_violet_cube_bucket": "熔融紫色魔方桶",
+  "item.tinkers_rainbow.molten_indigo_scrap_bucket": "熔融靛青碎片桶",
+  "item.tinkers_rainbow.molten_rainbow_ingot_bucket": "熔融彩虹锭桶",
+
+  "fluid_type.tinkers_rainbow.molten_blue_steel":"熔融蓝染钢",
+  "fluid_type.tinkers_rainbow.molten_orange_gem":"熔融橙色宝石",
+  "fluid_type.tinkers_rainbow.molten_indigo_scrap":"熔融靛青碎片",
+  "fluid_type.tinkers_rainbow.molten_violet_cube":"熔融紫色魔方",
+  "fluid_type.tinkers_rainbow.molten_red_nugget":"熔融红色碎粒",
+  "fluid_type.tinkers_rainbow.molten_rainbow_ingot":"熔融彩虹锭",
+
+  "fluid.tinkers_rainbow.molten_rainbow_ingot":"熔融彩虹锭",
+
+
+  "block.tinkers_rainbow.blue_steel_ore":"蓝染钢矿石",
+  "block.tinkers_rainbow.blue_steel_deepslate_ore":"蓝染钢深层矿石",
+  "block.tinkers_rainbow.blue_steel_block":"蓝染钢块",
+  "block.tinkers_rainbow.green_jelly_block":"绿色果冻块",
+  "block.tinkers_rainbow.rainbow_block":"彩虹块",
+
+  "entity.tinkers_rainbow.redspider": "焰红蜘蛛",
+
+  "itemGroup.tinkers_rainbow_tab": "匠魂彩虹"
+}

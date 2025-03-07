@@ -1,0 +1,37 @@
+{
+  "entity.tinkers_rainbow.redspider": "Fire Red Spider",
+
+  "block.tinkers_rainbow.blue_steel_block":"Blue Steel Block",
+  "block.tinkers_rainbow.green_jelly_block":"Green Jelly Block",
+  "block.tinkers_rainbow.rainbow_block":"Rainbow Block",
+  "block.tinkers_rainbow.blue_steel_ore":"Blue Steel Ore",
+  "block.tinkers_rainbow.blue_steel_deepslate_ore":"Blue Steel Deepslate Ore",
+
+  "item.tinkers_rainbow.blue_steel": "Blue steel",
+  "item.tinkers_rainbow.raw_blue_steel":"Raw Blue steel Ore",
+  "item.tinkers_rainbow.green_jelly_ingot":"Green Jelly Ingot",
+  "item.tinkers_rainbow.indigo_scrap":"Indigo Scrap",
+  "item.tinkers_rainbow.violet_cube":"Violet Cube",
+  "item.tinkers_rainbow.red_nugget":"Red Nugget",
+  "item.tinkers_rainbow.yellow_dust":" yellow Dust",
+  "item.tinkers_rainbow.orange_gem":"Orange Gem",
+  "item.tinkers_rainbow.rainbow_ingot":"Rainbow Ingot",
+  "item.tinkers_rainbow.red_spider_spawn_egg":"Red Spider Spawn Egg",
+  "item.tinkers_rainbow.molten_blue_steel_bucket": "Molten Blue Steel Bucket",
+  "item.tinkers_rainbow.molten_orange_gem_bucket": "Orange Gem Bucket",
+  "item.tinkers_rainbow.molten_red_nugget_bucket": "Red Nugget Bucket",
+  "item.tinkers_rainbow.molten_violet_cube_bucket": "Violet Cube Bucket",
+  "item.tinkers_rainbow.molten_indigo_scrap_bucket": "Indigo Scrap Bucket",
+  "item.tinkers_rainbow.molten_rainbow_ingot_bucket": "Rainbow Ingot Bucket",
+
+  "fluid_type.tinkers_rainbow.molten_blue_steel":"Blue Steel",
+  "fluid_type.tinkers_rainbow.molten_orange_gem":"Orange Gem",
+  "fluid_type.tinkers_rainbow.molten_indigo_scrap":"Indigo Scrap",
+  "fluid_type.tinkers_rainbow.molten_violet_cube":"Violet Cube",
+  "fluid_type.tinkers_rainbow.molten_red_nugget":"Red Nugget",
+  "fluid_type.tinkers_rainbow.molten_rainbow_ingot":"Rainbow Ingot",
+  "fluid.tinkers_rainbow.molten_rainbow_ingot":"Molten Rainbow Ingot",
+
+  "itemGroup.tinkers_rainbow_tab": "Tinkers Rainbow"
+
+}

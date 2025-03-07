@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:is_plains",
+  "features": "tinkers_rainbow:blue_steel_ore_placed",
+  "step": "underground_ores"
+}

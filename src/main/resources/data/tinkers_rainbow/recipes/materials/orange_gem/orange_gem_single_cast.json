@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/ingot"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "name": "tinkers_rainbow:molten_orange_gem",
+    "amount": 90
+  },
+  "result": "tinkers_rainbow:orange_gem",
+  "cooling_time": 500
+}

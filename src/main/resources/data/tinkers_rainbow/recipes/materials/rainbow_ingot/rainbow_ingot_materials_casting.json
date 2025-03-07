@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "name": "tinkers_rainbow:molten_rainbow_ingot",
+    "amount": 90
+  },
+  "temperature": 7777,
+  "output": "tinkers_rainbow:rainbow_ingot"
+}

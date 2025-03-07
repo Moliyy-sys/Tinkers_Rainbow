@@ -1,0 +1,41 @@
+[272月2025 16:22:22.329] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\郭俊庆\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.3.29, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, tinkers_rainbow, --all, --output, D:\Tinkers_Rainbow-1.20.1-4.0\src\generated\resources, --existing, D:\Tinkers_Rainbow-1.20.1-4.0\src\main\resources]
+[272月2025 16:22:22.340] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.2 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[272月2025 16:22:22.491] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[272月2025 16:22:22.549] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/郭俊庆/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[272月2025 16:22:22.816] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\郭俊庆\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.3.29\c0f2a96b88f344c7fa51185238ddb5f6d1be8560\javafmllanguage-1.20.1-47.3.29.jar is missing mods.toml file
+[272月2025 16:22:22.819] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\郭俊庆\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.3.29\7dd674f592d85d4bc5e90ae9d48dbaa81a69462e\lowcodelanguage-1.20.1-47.3.29.jar is missing mods.toml file
+[272月2025 16:22:22.821] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\郭俊庆\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.3.29\3e35d3e0c242a3ccdc0f8b2c4f9200a7978c3696\mclanguage-1.20.1-47.3.29.jar is missing mods.toml file
+[272月2025 16:22:22.823] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\郭俊庆\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.3.29\14593d5e6d79f573c8f204ed40d52c15b32de896\fmlcore-1.20.1-47.3.29.jar is missing mods.toml file
+[272月2025 16:22:22.964] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[272月2025 16:22:25.691] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[272月2025 16:22:25.697] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\郭俊庆\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, tinkers_rainbow, --all, --output, D:\Tinkers_Rainbow-1.20.1-4.0\src\generated\resources, --existing, D:\Tinkers_Rainbow-1.20.1-4.0\src\main\resources]
+[272月2025 16:22:25.966] [main/INFO] [mixin/]: Remapping refMap mixins.codechickenlib.refmap.json using D:\Tinkers_Rainbow-1.20.1-4.0\build\createSrgToMcp\output.srg
+[272月2025 16:22:25.967] [main/INFO] [mixin/]: Remapping refMap mixins.brandonscore.refmap.json using D:\Tinkers_Rainbow-1.20.1-4.0\build\createSrgToMcp\output.srg
+[272月2025 16:22:25.968] [main/INFO] [mixin/]: Remapping refMap mixins.draconicevolution.refmap.json using D:\Tinkers_Rainbow-1.20.1-4.0\build\createSrgToMcp\output.srg
+[272月2025 16:22:26.380] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [tinkers_rainbow]
+[272月2025 16:22:30.223] [modloading-worker-0/INFO] [BrandonsCore/]: Knock Knock...
+[272月2025 16:22:30.223] [modloading-worker-0/WARN] [draconicevolution/]: Reactor detonation initiated.
+[272月2025 16:22:30.223] [modloading-worker-0/INFO] [BrandonsCore/]: Wait... NO! What?
+[272月2025 16:22:30.223] [modloading-worker-0/INFO] [BrandonsCore/]: Stop That! That's not how this works!
+[272月2025 16:22:30.223] [modloading-worker-0/WARN] [draconicevolution/]: Calculating explosion ETA
+[272月2025 16:22:30.223] [modloading-worker-0/INFO] [BrandonsCore/]: Ahh... NO... NONONO! DONT DO THAT!!! STOP THIS NOW!
+[272月2025 16:22:30.223] [modloading-worker-0/WARN] [draconicevolution/]: **Explosion Imminent!!!**
+[272月2025 16:22:30.224] [modloading-worker-0/INFO] [BrandonsCore/]: Well...... fork...
+[272月2025 16:22:30.238] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.29, for MC 1.20.1 with MCP 20230612.114412
+[272月2025 16:22:30.239] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.29 Initialized
+[272月2025 16:22:30.617] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[272月2025 16:22:30.638] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 18.36 ms
+[272月2025 16:22:33.625] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/郭俊庆/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.29_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.3.29_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[272月2025 16:22:33.625] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/郭俊庆/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.29_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.3.29_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[272月2025 16:22:33.964] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: tinkers_rainbow
+[272月2025 16:22:33.986] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: tinkers_rainbow finished after 20 ms
+[272月2025 16:22:33.986] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: tinkers_rainbow
+[272月2025 16:22:34.111] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: tinkers_rainbow finished after 125 ms
+[272月2025 16:22:34.111] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[272月2025 16:22:34.149] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 37 ms
+[272月2025 16:22:34.149] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[272月2025 16:22:34.173] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 22 ms
+[272月2025 16:22:34.173] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[272月2025 16:22:34.431] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 259 ms
+[272月2025 16:22:34.432] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 467 ms
+[272月2025 16:22:34.435] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 42, old count: 42, new count: 43, removed stale: 0, written: 0

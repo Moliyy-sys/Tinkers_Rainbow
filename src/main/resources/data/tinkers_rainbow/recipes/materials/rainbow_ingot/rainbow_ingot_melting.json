@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tinkers_rainbow:rainbow_ingot"
+  },
+  "result": {
+    "fluid": "tinkers_rainbow:molten_rainbow_ingot",
+    "amount": 90
+  },
+  "temperature": 7777,
+  "time": 7777
+}
