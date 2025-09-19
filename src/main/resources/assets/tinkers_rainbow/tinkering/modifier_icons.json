@@ -1,0 +1,5 @@
+{
+  "tinkers_rainbow:advanced_fortune": ["tinkers_rainbow:gui/modifiers/advanced_fortune", "tconstruct:gui/modifiers/tier"],
+  "tinkers_rainbow:advanced_looting": ["tinkers_rainbow:gui/modifiers/advanced_looting", "tconstruct:gui/modifiers/tier"],
+  "tinkers_rainbow:miss_miss": ["tinkers_rainbow:gui/modifiers/miss_miss", "tconstruct:gui/modifiers/tier"]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+
+    {
+      "item": "minecraft:coal_block",
+      "amount_needed": 5
+    }
+  ],
+  "level": {
+    "max": 2
+  },
+  "result": "tinkers_rainbow:advanced_fortune",
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": [
+    {
+      "tag": "tconstruct:modifiable/harvest"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "item.tinkers_rainbow.blue_steel":"蓝染钢",
+  "item.tinkers_rainbow.raw_blue_steel":"粗蓝染钢矿",
+  "item.tinkers_rainbow.green_jelly_ingot":"绿色果冻锭",
+  "item.tinkers_rainbow.indigo_scrap":"靛青碎片",
+  "item.tinkers_rainbow.violet_cube":"紫色立方",
+  "item.tinkers_rainbow.red_nugget":"红色碎粒",
+  "item.tinkers_rainbow.yellow_dust":"黄色粉尘",
+  "item.tinkers_rainbow.orange_gem":"橘子宝石",
+  "item.tinkers_rainbow.rainbow_ingot":"七彩锭",
+  "item.tinkers_rainbow.red_spider_spawn_egg":"焰红蜘蛛刷怪蛋",
+  "item.tinkers_rainbow.molten_blue_steel_bucket": "熔融蓝染钢桶",
+  "item.tinkers_rainbow.molten_orange_gem_bucket": "熔融橙色宝石桶",
+  "item.tinkers_rainbow.molten_red_nugget_bucket": "熔融红色碎粒桶",
+  "item.tinkers_rainbow.molten_violet_cube_bucket": "熔融紫色魔方桶",
+  "item.tinkers_rainbow.molten_indigo_scrap_bucket": "熔融靛青碎片桶",
+  "item.tinkers_rainbow.molten_rainbow_ingot_bucket": "熔融彩虹锭桶",
+
+  "item.tinkers_rainbow.glorious_core":"辉煌核心",
+  "item.tinkers_rainbow.end_singularity":"终末奇点",
+  "item.tinkers_rainbow.cosmic_nucleus":"寰宇晶核",
+
+  "message.tinkers_rainbow.glory_core_used":"辉煌核心已使用: %d/%d",
+  "message.tinkers_rainbow.glory_core_max":"辉煌核心已达最大次数",
+  "message.tinkers_rainbow.end_singularity_used": "终末奇点已使用: %d/%d",
+  "message.tinkers_rainbow.end_singularity_max": "终末奇点已达最大次数",
+
+  "message.tinkers_rainbow.cosmic_nucleus_used": "寰宇晶核已使用: %d/%d",
+  "message.tinkers_rainbow.cosmic_nucleus_max": "寰宇晶核已达最大次数",
+
+  "material.tinkers_rainbow.blue_steel": "蓝染钢",
+  "material.tinkers_rainbow.green_jelly_ingot":"绿色果冻锭",
+  "material.tinkers_rainbow.indigo_scrap":"靛青碎片",
+  "material.tinkers_rainbow.violet_cube":"紫色立方",
+  "material.tinkers_rainbow.red_nugget":"红色碎粒",
+  "material.tinkers_rainbow.yellow_dust":"黄色粉尘",
+  "material.tinkers_rainbow.orange_gem":"橘子宝石",
+  "material.tinkers_rainbow.rainbow_ingot":"七彩锭",
+  "material.tinkers_rainbow.wakamo_ingot":"若藻锭",
+
+  "fluid_type.tinkers_rainbow.molten_blue_steel":"熔融蓝染钢",
+  "fluid_type.tinkers_rainbow.molten_orange_gem":"熔融橙色宝石",
+  "fluid_type.tinkers_rainbow.molten_indigo_scrap":"熔融靛青碎片",
+  "fluid_type.tinkers_rainbow.molten_violet_cube":"熔融紫色魔方",
+  "fluid_type.tinkers_rainbow.molten_red_nugget":"熔融红色碎粒",
+  "fluid_type.tinkers_rainbow.molten_rainbow_ingot":"熔融彩虹锭",
+
+  "fluid.tinkers_rainbow.molten_rainbow_ingot":"熔融彩虹锭",
+
+  "block.tinkers_rainbow.blue_steel_ore":"蓝染钢矿石",
+  "block.tinkers_rainbow.blue_steel_deepslate_ore":"蓝染钢深层矿石",
+  "block.tinkers_rainbow.blue_steel_block":"蓝染钢块",
+  "block.tinkers_rainbow.green_jelly_block":"绿色果冻块",
+  "block.tinkers_rainbow.rainbow_block":"彩虹块",
+
+  "block.tinkers_rainbow.gene_furnace":"基因熔炉",
+
+  "entity.tinkers_rainbow.redspider": "焰红蜘蛛",
+
+  "modifier.tinkers_rainbow.advanced_fortune": "高级时运",
+  "modifier.tinkers_rainbow.advanced_fortune.flavor": "贪财的静子",
+  "modifier.tinkers_rainbow.advanced_fortune.description": "原版时运效果，增加额外的原版矿物掉落",
+
+  "modifier.tinkers_rainbow.advanced_looting": "高级抢夺",
+  "modifier.tinkers_rainbow.advanced_looting.flavor": "爱丽丝得到了更多的战利品，不过似乎要手动拾取",
+  "modifier.tinkers_rainbow.advanced_looting.description": "原版抢夺效果，不过增加额外的基因金属粒掉落",
+  "modifier.tinkers_rainbow.teatime_in_wartime" : "战暇茶会",
+
+  "modifier.tinkers_rainbow.miss_miss": "闪避",
+  "modifier.tinkers_rainbow.miss_miss.flavor": "你打中我的概率，极低",
+  "modifier.tinkers_rainbow.miss_miss.description": "能够闪避伤害，20%概率",
+
+  "container.tinkers_rainbow.gene_oven" : "基因熔炉",
+  "tooltip.energy_amount":"能量",
+
+  "tooltip.fluid_amount": "%s: %d/%d mB",
+  "tooltip.fluid_empty": "空的",
+
+  "itemGroup.tinkers_rainbow_tab": "匠魂彩虹"
+}

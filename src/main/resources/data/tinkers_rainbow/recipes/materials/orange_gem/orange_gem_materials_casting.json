@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "name": "tinkers_rainbow:molten_orange_gem",
+    "amount": 90
+  },
+  "temperature": 500,
+  "output": "tinkers_rainbow:orange_gem"
+}

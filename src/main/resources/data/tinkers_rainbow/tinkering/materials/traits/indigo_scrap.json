@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "name": "tconstruct:soulbound",
+      "level": 1
+    },
+    {
+      "name": "tconstruct:punch",
+      "level": 1
+    }
+  ]
+}

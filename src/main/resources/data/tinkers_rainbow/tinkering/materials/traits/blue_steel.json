@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "name": "tinkers_rainbow:advanced_looting",
+      "level": 1
+    },
+    {
+      "name": "tinkers_rainbow:advanced_fortune",
+      "level": 1
+    }
+  ]
+}

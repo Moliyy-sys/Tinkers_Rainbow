@@ -1,0 +1,79 @@
+{
+  "entity.tinkers_rainbow.redspider": "Fire Red Spider",
+
+  "block.tinkers_rainbow.blue_steel_block":"Blue Steel Block",
+  "block.tinkers_rainbow.green_jelly_block":"Green Jelly Block",
+  "block.tinkers_rainbow.rainbow_block":"Rainbow Block",
+  "block.tinkers_rainbow.blue_steel_ore":"Blue Steel Ore",
+  "block.tinkers_rainbow.blue_steel_deepslate_ore":"Blue Steel Deepslate Ore",
+  "block.tinkers_rainbow.gene_furnace":"Gene Furnace",
+
+  "item.tinkers_rainbow.blue_steel": "Blue steel",
+  "item.tinkers_rainbow.raw_blue_steel":"Raw Blue steel Ore",
+  "item.tinkers_rainbow.green_jelly_ingot":"Green Jelly Ingot",
+  "item.tinkers_rainbow.indigo_scrap":"Indigo Scrap",
+  "item.tinkers_rainbow.violet_cube":"Violet Cube",
+  "item.tinkers_rainbow.red_nugget":"Red Nugget",
+  "item.tinkers_rainbow.yellow_dust":" yellow Dust",
+  "item.tinkers_rainbow.orange_gem":"Orange Gem",
+  "item.tinkers_rainbow.rainbow_ingot":"Rainbow Ingot",
+  "material.tinkers_rainbow.wakamo_ingot":"Wakamo Ingot",
+  "item.tinkers_rainbow.red_spider_spawn_egg":"Red Spider Spawn Egg",
+  "item.tinkers_rainbow.molten_blue_steel_bucket": "Molten Blue Steel Bucket",
+  "item.tinkers_rainbow.molten_orange_gem_bucket": "Orange Gem Bucket",
+  "item.tinkers_rainbow.molten_red_nugget_bucket": "Red Nugget Bucket",
+  "item.tinkers_rainbow.molten_violet_cube_bucket": "Violet Cube Bucket",
+  "item.tinkers_rainbow.molten_indigo_scrap_bucket": "Indigo Scrap Bucket",
+  "item.tinkers_rainbow.molten_rainbow_ingot_bucket": "Rainbow Ingot Bucket",
+
+  "item.tinkers_rainbow.glorious_core":"Glorious Core",
+  "item.tinkers_rainbow.end_singularity":"End Singularity",
+  "item.tinkers_rainbow.cosmic_nucleus":"Cosmic Nucleus",
+
+  "message.tinkers_rainbow.glory_core_used":"Glory Core Used",
+  "message.tinkers_rainbow.glory_core_max":"Glory Core Max",
+  "message.tinkers_rainbow.end_singularity_used": "End Singularity used! Total uses: %d/%d",
+  "message.tinkers_rainbow.end_singularity_max": "You have reached the maximum number of End Singularity uses!",
+
+  "message.tinkers_rainbow.cosmic_nucleus_used": "Cosmic Nucleus used! Total uses: %d/%d",
+  "message.tinkers_rainbow.cosmic_nucleus_max": "You have reached the maximum number of Cosmic Nucleus uses!",
+
+
+  "fluid_type.tinkers_rainbow.molten_blue_steel":"Molten Blue Steel",
+  "fluid_type.tinkers_rainbow.molten_orange_gem":"Molten Orange Gem",
+  "fluid_type.tinkers_rainbow.molten_indigo_scrap":"Molten Indigo Scrap",
+  "fluid_type.tinkers_rainbow.molten_violet_cube":"Molten Violet Cube",
+  "fluid_type.tinkers_rainbow.molten_red_nugget":"Molten Red Nugget",
+  "fluid_type.tinkers_rainbow.molten_rainbow_ingot":"Molten Rainbow Ingot",
+  "fluid.tinkers_rainbow.molten_rainbow_ingot":"Molten Rainbow Ingot",
+
+  "itemGroup.tinkers_rainbow_tab": "Tinkers Rainbow",
+
+  "material.tinkers_rainbow.blue_steel": "Blue steel",
+  "material.tinkers_rainbow.green_jelly_ingot":"Green Jelly Ingot",
+  "material.tinkers_rainbow.indigo_scrap":"Indigo Scrap",
+  "material.tinkers_rainbow.violet_cube":"Violet Cube",
+  "material.tinkers_rainbow.red_nugget":"Red Nugget",
+  "material.tinkers_rainbow.yellow_dust":" yellow Dust",
+  "material.tinkers_rainbow.orange_gem":"Orange Gem",
+  "material.tinkers_rainbow.rainbow_ingot":"Rainbow Ingot",
+
+  "modifier.tinkers_rainbow.advanced_fortune": "Advanced Fortune",
+  "modifier.tinkers_rainbow.advanced_fortune.flavor": "more and more ores",
+  "modifier.tinkers_rainbow.advanced_fortune.description": "Vanilla Fortune effect,but add extra vanilla ores drop",
+
+  "modifier.tinkers_rainbow.advanced_looting": "Advanced Looting",
+  "modifier.tinkers_rainbow.advanced_looting.flavor": "more and more loots",
+  "modifier.tinkers_rainbow.advanced_looting.description": "Vanilla Fortune effect,but add extra gene metal nugget drop",
+  "modifier.tinkers_rainbow.teatime_in_wartime" : "Teatime In Wartime",
+
+  "container.tinkers_rainbow.gene_oven" : "Gene Furnace",
+
+  "tooltip.fluid_amount": "%s: %d/%d mB",
+  "tooltip.fluid_empty": "Empty",
+  "tooltip.energy_amount":"Energy Amount",
+
+  "modifier.tinkers_rainbow.miss_miss": "miss",
+  "modifier.tinkers_rainbow.miss_miss.flavor": "miss miss",
+  "modifier.tinkers_rainbow.miss_miss.description": "Able to dodge damage, 20% probability"
+}

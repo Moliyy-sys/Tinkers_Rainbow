@@ -1,0 +1,38 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+    {
+      "item": "minecraft:rotten_flesh",
+      "amount_needed": 5
+    },
+    {
+      "item": "minecraft:phantom_membrane",
+      "amount_needed": 5
+    },
+    {
+      "item": "minecraft:bone",
+      "amount_needed": 5
+    },
+    {
+      "item": "minecraft:string",
+      "amount_needed": 5
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "amount_needed": 5
+    }
+  ],
+  "level": {
+    "max": 5
+  },
+  "result": "tinkers_rainbow:advanced_looting",
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": [
+    {
+      "tag": "tconstruct:modifiable/melee"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "block_effects": [
+    {
+      "type": "tconstruct:mob_effect_cloud",
+      "effects": [
+        {
+          "effect": "minecraft:levitation",
+          "level": 1,
+          "time": 20
+        }
+      ]
+    }
+  ],
+  "entity_effects": [
+    {
+      "type": "tconstruct:conditional",
+      "effect": {
+        "type": "tconstruct:damaged",
+        "damage": 99.0,
+        "modifier": [
+          "tconstruct:fire"
+        ]
+      },
+      "target": {
+        "type": "mantle:inverted",
+        "inverted_type": "mantle:fire_immune"
+      }
+    },
+    {
+      "type": "tconstruct:mob_effect",
+      "action": "set",
+      "effect": "minecraft:levitation",
+      "level": 1,
+      "time": 20
+    }
+  ],
+  "fluid": {
+    "amount": 50,
+    "tag": "tinkers_rainbow:molten_rainbow_ingot"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/ingot"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "name": "tinkers_rainbow:molten_red_nugget",
+    "amount": 90
+  },
+  "result": "tinkers_rainbow:red_nugget",
+  "cooling_time": 800
+}

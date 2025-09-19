@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "tinkers_rainbow:red_nugget"
+  },
+  "result": {
+    "fluid": "tinkers_rainbow:molten_red_nugget",
+    "amount": 90
+  },
+  "temperature": 1800,
+  "time": 800
+}

@@ -1,0 +1,39 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+
+    {
+      "item": "minecraft:ghast_tear",
+      "amount_needed": 5
+    },
+    {
+      "item": "minecraft:blaze_rod",
+      "amount_needed": 5
+    },
+    {
+      "item": "minecraft:magma_cream",
+      "amount_needed": 5
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "amount_needed": 5
+    },
+    {
+      "item": "minecraft:shulker_shell",
+      "amount_needed": 5
+    }
+  ],
+  "level": {
+    "max": 10
+  },
+  "result": "tinkers_rainbow:advanced_looting",
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": [
+    {
+      "tag": "tconstruct:modifiable/melee"
+    }
+  ]
+}

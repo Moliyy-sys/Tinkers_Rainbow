@@ -1,0 +1,13 @@
+{
+  "type": "tinkers_rainbow:wither_drop_glories_core",
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "minecraft:wither"
+      }
+    }
+  ],
+  "item": "tinkers_rainbow:glories_core"
+}

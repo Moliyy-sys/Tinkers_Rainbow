@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tinkers_rainbow:green_jelly_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "tinkers_rainbow:green_jelly_ingot"
+  }
+}

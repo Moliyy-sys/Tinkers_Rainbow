@@ -1,0 +1,62 @@
+[149月2025 11:24:39.810] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\郭俊庆\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.3.29, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, tinkers_rainbow, --all, --output, D:\Tinkers_Rainbow-1.20.1-4.0\src\generated\resources, --existing, D:\Tinkers_Rainbow-1.20.1-4.0\src\main\resources]
+[149月2025 11:24:39.822] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.2 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[149月2025 11:24:40.184] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[149月2025 11:24:40.266] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/郭俊庆/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[149月2025 11:24:40.675] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\郭俊庆\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.3.29\c0f2a96b88f344c7fa51185238ddb5f6d1be8560\javafmllanguage-1.20.1-47.3.29.jar is missing mods.toml file
+[149月2025 11:24:40.678] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\郭俊庆\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.3.29\7dd674f592d85d4bc5e90ae9d48dbaa81a69462e\lowcodelanguage-1.20.1-47.3.29.jar is missing mods.toml file
+[149月2025 11:24:40.681] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\郭俊庆\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.3.29\3e35d3e0c242a3ccdc0f8b2c4f9200a7978c3696\mclanguage-1.20.1-47.3.29.jar is missing mods.toml file
+[149月2025 11:24:40.684] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\郭俊庆\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.3.29\14593d5e6d79f573c8f204ed40d52c15b32de896\fmlcore-1.20.1-47.3.29.jar is missing mods.toml file
+[149月2025 11:24:41.014] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[149月2025 11:24:44.150] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[149月2025 11:24:44.171] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\郭俊庆\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, tinkers_rainbow, --all, --output, D:\Tinkers_Rainbow-1.20.1-4.0\src\generated\resources, --existing, D:\Tinkers_Rainbow-1.20.1-4.0\src\main\resources]
+[149月2025 11:24:44.865] [main/INFO] [mixin/]: Remapping refMap moonlight-common-refmap.json using D:\Tinkers_Rainbow-1.20.1-4.0\build\createSrgToMcp\output.srg
+[149月2025 11:24:44.866] [main/INFO] [mixin/]: Remapping refMap moonlight-forge-refmap.json using D:\Tinkers_Rainbow-1.20.1-4.0\build\createSrgToMcp\output.srg
+[149月2025 11:24:44.867] [main/INFO] [mixin/]: Remapping refMap retrodamageindicators.refmap.json using D:\Tinkers_Rainbow-1.20.1-4.0\build\createSrgToMcp\output.srg
+[149月2025 11:24:44.873] [main/INFO] [mixin/]: Remapping refMap ae2.mixins.refmap.json using D:\Tinkers_Rainbow-1.20.1-4.0\build\createSrgToMcp\output.srg
+[149月2025 11:24:44.874] [main/INFO] [mixin/]: Remapping refMap mixins.hammerlib.refmap.json using D:\Tinkers_Rainbow-1.20.1-4.0\build\createSrgToMcp\output.srg
+[149月2025 11:24:44.875] [main/INFO] [mixin/]: Remapping refMap dummmmmmy-common-refmap.json using D:\Tinkers_Rainbow-1.20.1-4.0\build\createSrgToMcp\output.srg
+[149月2025 11:24:44.882] [main/INFO] [mixin/]: Remapping refMap touhou_little_maid.refmap.json using D:\Tinkers_Rainbow-1.20.1-4.0\build\createSrgToMcp\output.srg
+[149月2025 11:24:45.627] [main/WARN] [mixin/]: Error loading class: dev/latvian/mods/kubejs/recipe/RecipesEventJS (java.lang.ClassNotFoundException: dev.latvian.mods.kubejs.recipe.RecipesEventJS)
+[149月2025 11:24:45.627] [main/WARN] [mixin/]: @Mixin target dev.latvian.mods.kubejs.recipe.RecipesEventJS was not found mixins.hammerlib.json:bs.kubejs.RecipeEventJSMixin
+[149月2025 11:24:46.314] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [tinkers_rainbow]
+[149月2025 11:24:46.317] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[149月2025 11:24:51.818] [main/WARN] [AE2:C/]: Unable to find class com.simibubi.create.foundation.ponder.PonderWorld. Integration with PonderJS disabled.
+[149月2025 11:24:52.502] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.29, for MC 1.20.1 with MCP 20230612.114412
+[149月2025 11:24:52.505] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.29 Initialized
+[149月2025 11:24:53.375] [modloading-worker-0/INFO] [touhou_little_maid/]: common default pack init start...
+[149月2025 11:24:53.486] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[149月2025 11:24:53.598] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 107.1 ms
+[149月2025 11:24:54.578] [modloading-worker-0/INFO] [touhou_little_maid/]: common default pack init finished, cost time: 1189.929 ms
+[149月2025 11:25:15.062] [modloading-worker-0/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fluid.FluidCharge - org.zeith.hammerlib.util.charging.impl.FluidChargeHandler@75c6e941
+[149月2025 11:25:15.063] [modloading-worker-0/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fe.FECharge - org.zeith.hammerlib.util.charging.impl.FEChargeHandler@594cf2dc
+[149月2025 11:25:15.063] [modloading-worker-0/INFO] [HammerLib/]: Registered inventory lister org.zeith.hammerlib.util.charging.impl.VanillaPlayerInvLister
+[149月2025 11:25:15.068] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/TileTestMachine; from hammerlib to register it's stuff.
+[149月2025 11:25:15.068] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/RecipeTestMachine; from hammerlib to register it's stuff.
+[149月2025 11:25:15.068] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/BlockTestMachine; from hammerlib to register it's stuff.
+[149月2025 11:25:15.069] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/recipes/replacers/WaterBottleReplacer; from hammerlib to register it's stuff.
+[149月2025 11:25:15.069] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/recipes/replacers/RemainingReplacerRegistrar; from hammerlib to register it's stuff.
+[149月2025 11:25:15.069] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/SourceTypesHL; from hammerlib to register it's stuff.
+[149月2025 11:25:15.069] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/RecipesHL; from hammerlib to register it's stuff.
+[149月2025 11:25:15.069] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/LevelActionTypesHL; from hammerlib to register it's stuff.
+[149月2025 11:25:15.069] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/ItemsHL; from hammerlib to register it's stuff.
+[149月2025 11:25:15.069] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/init/GearsHL; from hammerlib to register it's stuff.
+[149月2025 11:25:15.069] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/api/forge/ContainerAPI; from hammerlib to register it's stuff.
+[149月2025 11:25:15.070] [modloading-worker-0/INFO] [HammerLib/]: Injecting setup into org.zeith.hammerlib.net.Network
+[149月2025 11:25:15.071] [modloading-worker-0/INFO] [HammerLib/]: Injecting setup into org.zeith.hammerlib.client.pipelines.shaders.VariableShaderProgram
+[149月2025 11:25:15.341] [main/INFO] [HammerLib/]: Register AP class org.zeith.hammerlib.annotations.client.TileRenderer$AP for interface org.zeith.hammerlib.annotations.client.TileRenderer.
+[149月2025 11:25:15.342] [main/INFO] [HammerLib/]: Register AP class org.zeith.hammerlib.annotations.client.Particles$AP for interface org.zeith.hammerlib.annotations.client.Particles.
+[149月2025 11:25:18.300] [main/INFO] [Moonlight/]: Initialized block sets in 10ms
+[149月2025 11:25:19.241] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/郭俊庆/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.29_mapped_official_1.20.1/forge-1.20.1-47.3.29_mapped_official_1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[149月2025 11:25:19.242] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/郭俊庆/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.3.29_mapped_official_1.20.1/forge-1.20.1-47.3.29_mapped_official_1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[149月2025 11:25:19.929] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: tinkers_rainbow
+[149月2025 11:25:19.951] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: tinkers_rainbow finished after 20 ms
+[149月2025 11:25:19.951] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: tinkers_rainbow
+[149月2025 11:25:19.962] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: tinkers_rainbow finished after 12 ms
+[149月2025 11:25:19.963] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[149月2025 11:25:19.991] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 27 ms
+[149月2025 11:25:19.991] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[149月2025 11:25:20.002] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 11 ms
+[149月2025 11:25:20.003] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Registries
+[149月2025 11:25:20.013] [main/INFO] [net.minecraft.data.DataGenerator/]: Registries finished after 9 ms
+[149月2025 11:25:20.013] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 83 ms
+[149月2025 11:25:20.019] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 50, old count: 47, new count: 51, removed stale: 0, written: 3

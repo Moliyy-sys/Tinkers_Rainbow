@@ -1,0 +1,12 @@
+{
+  "material.tinkers_rainbow":
+  {
+    "blue_steel"  : "#1E90FF",
+    "green_jelly_ingot": "#00EE76",
+    "orange_gem"   : "#DAA520",
+    "violet_cube"   : "#A020F0",
+    "red_nugget"   : "#CD3700",
+    "indigo_scrap"   : "#6A5ACD",
+    "rainbow_ingot": "#FFE4E1"
+  }
+}
