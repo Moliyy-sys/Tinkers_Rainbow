@@ -1,11 +1,15 @@
 {
   "default": [
     {
+<<<<<<< HEAD
       "name": "tinkers_rainbow:advanced_looting",
       "level": 1
     },
     {
       "name": "tinkers_rainbow:advanced_fortune",
+=======
+      "name": "tconstruct:overslime",
+>>>>>>> 981271775e69e87b2613d06676af9d23474e788f
       "level": 1
     }
   ]

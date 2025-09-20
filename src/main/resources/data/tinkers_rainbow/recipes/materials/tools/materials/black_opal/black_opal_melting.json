@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "oresabovediamonds:black_opal"
+  },
+  "result": {
+    "fluid": "tinkers_rainbow:molten_black_opal",
+    "amount": 90
+  },
+  "temperature": 1500,
+  "time": 1000
+}

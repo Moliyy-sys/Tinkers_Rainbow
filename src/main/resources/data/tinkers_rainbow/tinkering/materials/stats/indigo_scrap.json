@@ -4,16 +4,26 @@
     "tconstruct:handle": {
       "durability": 0.8,
       "mining_speed": 0.2,
+<<<<<<< HEAD
       "melee_speed": -0.2,
       "melee_damage": 0.4
     },
     "tconstruct:head": {
       "durability": 1200,
       "mining_speed": 12,
+=======
+      "melee_speed": 1,
+      "melee_damage": 1.4
+    },
+    "tconstruct:head": {
+      "durability": 800,
+      "mining_speed": 2,
+>>>>>>> 981271775e69e87b2613d06676af9d23474e788f
       "mining_tier": "minecraft:netherite",
       "melee_attack": 10
     },
     "tconstruct:limb": {
+<<<<<<< HEAD
       "durability": 1200,
       "draw_speed": 0.8,
       "velocity": 0.4,
@@ -22,6 +32,16 @@
     "tconstruct:grip": {
       "durability": 0.8,
       "accuracy": 0.4,
+=======
+      "durability": 800,
+      "draw_speed": 0.8,
+      "velocity": 1.1,
+      "accuracy": 14
+    },
+    "tconstruct:grip": {
+      "durability": 0.8,
+      "accuracy": 10,
+>>>>>>> 981271775e69e87b2613d06676af9d23474e788f
       "melee_damage": 6
     }
   }

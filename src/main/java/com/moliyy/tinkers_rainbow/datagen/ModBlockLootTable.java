@@ -1,7 +1,12 @@
 package com.moliyy.tinkers_rainbow.datagen;
 
+<<<<<<< HEAD
 import com.moliyy.tinkers_rainbow.init.ModBlocks;
 import com.moliyy.tinkers_rainbow.init.ModItems;
+=======
+import com.moliyy.tinkers_rainbow.registry.ModBlocks;
+import com.moliyy.tinkers_rainbow.registry.ModItems;
+>>>>>>> 981271775e69e87b2613d06676af9d23474e788f
 import net.minecraft.data.loot.BlockLootSubProvider;
 import net.minecraft.world.flag.FeatureFlags;
 import net.minecraft.world.level.block.Block;
@@ -25,11 +30,18 @@ public class ModBlockLootTable extends BlockLootSubProvider {
         dropSelf(ModBlocks.molten_orange_gem_block.get());
         dropSelf(ModBlocks.molten_red_nugget_block.get());
         dropSelf(ModBlocks.molten_violet_cube_block.get());
+<<<<<<< HEAD
         dropSelf(ModBlocks.molten_gene_metal_block.get());
         dropSelf(ModBlocks.Gene_Furnace_Block.get());
 
         dropOther(ModBlocks.BLUE_STEEL_ORE.get(),ModItems.RAW_BLUE_STEEL.get());
         dropOther(ModBlocks.BLUE_STEEL_DEEPSLATE_ORE.get(),ModItems.RAW_BLUE_STEEL.get());
+=======
+        dropSelf(ModBlocks.molten_black_opal_block.get());
+
+        //dropOther(ModBlocks.BLUE_STEEL_ORE.get(),ModItems.RAW_BLUE_STEEL.get());
+        //dropOther(ModBlocks.BLUE_STEEL_DEEPSLATE_ORE.get(),ModItems.RAW_BLUE_STEEL.get());
+>>>>>>> 981271775e69e87b2613d06676af9d23474e788f
     }
 
     @Override

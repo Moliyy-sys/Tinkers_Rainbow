@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "tinkers_rainbow:violet_cube"
+  },
+  "material": "tinkers_rainbow:violet_cube",
+  "needed": 1,
+  "value": 4
+}
