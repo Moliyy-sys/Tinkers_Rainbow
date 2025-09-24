@@ -20,6 +20,10 @@ public class Config
 {
     private static final ForgeConfigSpec.Builder BUILDER = new ForgeConfigSpec.Builder();
 
+
+    public static final ForgeConfigSpec.IntValue MAX_GLORY_CORE_USES;
+    public static final ForgeConfigSpec.IntValue MAX_END_SINGULARITY_USES;
+    public static final ForgeConfigSpec.IntValue MAX_COSMIC_NUCLEUS_USES;
     private static final ForgeConfigSpec.BooleanValue LOG_DIRT_BLOCK = BUILDER
             .comment("Whether to log the dirt block on common setup")
             .define("logDirtBlock", true);
@@ -37,7 +41,7 @@ public class Config
             .comment("A list of items to log on common setup.")
             .defineListAllowEmpty(Collections.singletonList("items"), () -> List.of("minecraft:iron_ingot"), Config::validateItemName);
 
-    static final ForgeConfigSpec SPEC = BUILDER.build();
+    static ForgeConfigSpec SPEC = BUILDER.build();
 
     public static boolean logDirtBlock;
     public static int magicNumber;
@@ -60,5 +64,24 @@ public class Config
         items = ITEM_STRINGS.get().stream()
                 .map(itemName -> ForgeRegistries.ITEMS.getValue(new ResourceLocation(itemName)))
                 .collect(Collectors.toSet());
+    }
+
+    static {
+        BUILDER.push("Item Usage Limits");
+
+        MAX_GLORY_CORE_USES = BUILDER
+                .comment("Maximum number of Glory Cores a player can use (default: 10)")
+                .defineInRange("maxGloryCoreUses", 10, 1, Integer.MAX_VALUE);
+
+        MAX_END_SINGULARITY_USES = BUILDER
+                .comment("Maximum number of End Singularities a player can use (default: 10)")
+                .defineInRange("maxEndSingularityUses", 10, 1, Integer.MAX_VALUE);
+
+        MAX_COSMIC_NUCLEUS_USES = BUILDER
+                .comment("Maximum number of Cosmic Nuclei a player can use (default: 10)")
+                .defineInRange("maxCosmicNucleusUses", 10, 1, Integer.MAX_VALUE);
+
+        BUILDER.pop();
+        SPEC = BUILDER.build();
     }
 }

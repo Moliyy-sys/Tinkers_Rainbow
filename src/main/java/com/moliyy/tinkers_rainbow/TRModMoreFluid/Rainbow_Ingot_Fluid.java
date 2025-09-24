@@ -1,4 +1,4 @@
-package com.moliyy.tinkers_rainbow.init;
+package com.moliyy.tinkers_rainbow.TRModMoreFluid;
 
 import com.moliyy.tinkers_rainbow.Tinkers_Rainbow;
 import slimeknights.mantle.registration.deferred.FluidDeferredRegister;

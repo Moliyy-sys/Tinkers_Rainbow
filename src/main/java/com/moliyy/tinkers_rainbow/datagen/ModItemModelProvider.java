@@ -32,6 +32,9 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.GENE_METAl);
         simpleItem(ModItems.GENE_METAl_NUGGET);
         simpleItem(ModItems.WAKAMO_INGOT);
+        simpleItem(ModItems.GLORIOUS_CORE);
+        simpleItem(ModItems.END_SINGULARITY);
+        simpleItem(ModItems.COSMIC_NUCLEUS);
     }
 
     private void simpleItem(RegistryObject<Item> item){

@@ -32,16 +32,17 @@ public class AdvancedFortuneModifier extends Modifier implements BlockHarvestMod
         hookbuilder.addHook(this,ModifierHooks.ENCHANTMENTS);
     }
     private static final List<ExtraDrop> EXTRA_DROPS = List.of(
-            new ExtraDrop(Items.COAL, 0.19),
-            new ExtraDrop(Items.RAW_COPPER, 0.17),
-            new ExtraDrop(Items.RAW_IRON, 0.15),
-            new ExtraDrop(Items.RAW_GOLD, 0.13),
-            new ExtraDrop(Items.QUARTZ, 0.11),
+            new ExtraDrop(Items.COAL, 0.17),
+            new ExtraDrop(Items.RAW_COPPER, 0.15),
+            new ExtraDrop(Items.RAW_IRON, 0.13),
+            new ExtraDrop(Items.RAW_GOLD, 0.11),
+            new ExtraDrop(Items.REDSTONE,0.10),
+            new ExtraDrop(Items.QUARTZ, 0.09),
             new ExtraDrop(Items.AMETHYST_SHARD, 0.09),
             new ExtraDrop(Items.LAPIS_LAZULI, 0.07),
             new ExtraDrop(Items.DIAMOND, 0.05),
             new ExtraDrop(Items.EMERALD, 0.03),
-            new ExtraDrop(Items.ANCIENT_DEBRIS, 0.01)
+            new ExtraDrop(Items.NETHERITE_SCRAP, 0.01)
     );
 
     @Override

@@ -1,5 +1,7 @@
 package com.moliyy.tinkers_rainbow;
 
+import com.moliyy.tinkers_rainbow.TRModMoreFluid.Rainbow_Ingot_Fluid;
+import com.moliyy.tinkers_rainbow.TRModMoreFluid.wakamo_Ingot_Fluid;
 import com.moliyy.tinkers_rainbow.entity.renderer.RedSpiderRenderer;
 import com.moliyy.tinkers_rainbow.init.*;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -9,7 +11,9 @@ import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
 import net.minecraftforge.event.server.ServerStartingEvent;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.apache.logging.log4j.LogManager;
@@ -37,12 +41,15 @@ public class Tinkers_Rainbow {
         ModRecipeTypes.RECIPE_TYPES.register(modEventBus);
         ModRecipeSerializers.SERIALIZERS.register(modEventBus);
         ModMenuTypes.MENU_TYPES.register(modEventBus);
+        TRModEffects.EFFECTS.register(modEventBus);
 
         Rainbow_Ingot_Fluid.FLUIDS.register(modEventBus);
+        wakamo_Ingot_Fluid.FLUIDS.register(modEventBus);
 
         modEventBus.addListener(this::addCreative);
         modEventBus.addListener(this::registerRenderers);
 
+        ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, Config.SPEC);
         modEventBus.addListener(this::commonSetup);
         MinecraftForge.EVENT_BUS.register(this);
     }

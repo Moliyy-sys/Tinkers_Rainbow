@@ -14,4 +14,5 @@ public class TRModModifiers {
     public static final StaticModifier<Modifier> AdvancedLooting = MODIFIERS.register("advanced_looting", AdvancedLootingModifier::new);
     public static final StaticModifier<Modifier> MissMiss = MODIFIERS.register("miss_miss", MissMissModifier::new);
 
+    public static final StaticModifier<Modifier> CrimsonBloom = MODIFIERS.register("crimsonbloom", CrimsonBloomModifier::new);
 }

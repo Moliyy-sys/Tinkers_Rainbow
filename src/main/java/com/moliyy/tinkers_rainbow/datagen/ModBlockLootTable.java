@@ -29,6 +29,7 @@ public class ModBlockLootTable extends BlockLootSubProvider {
 
         dropOther(ModBlocks.BLUE_STEEL_ORE.get(),ModItems.RAW_BLUE_STEEL.get());
         dropOther(ModBlocks.BLUE_STEEL_DEEPSLATE_ORE.get(),ModItems.RAW_BLUE_STEEL.get());
+        dropSelf(ModBlocks.Gene_Oven.get());
     }
 
     @Override

@@ -1,6 +1,9 @@
 package com.moliyy.tinkers_rainbow.init;
 
 import com.google.common.collect.Sets;
+import com.moliyy.tinkers_rainbow.TRMODItems.CosmicNucleusItem;
+import com.moliyy.tinkers_rainbow.TRMODItems.EndSingularityItem;
+import com.moliyy.tinkers_rainbow.TRMODItems.GloriousCoreItem;
 import com.moliyy.tinkers_rainbow.Tinkers_Rainbow;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
@@ -12,6 +15,7 @@ import net.minecraftforge.common.ForgeSpawnEggItem;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import net.minecraft.world.item.Rarity;
 
 import java.util.LinkedHashSet;
 import java.util.function.Supplier;
@@ -56,6 +60,12 @@ public class ModItems {
     public static final RegistryObject<Item> WAKAMO_INGOT = registerItem("wakamo_ingot",
             ()->new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item>  GLORIOUS_CORE = registerItem("glorious_core",
+            ()->new GloriousCoreItem(new Item.Properties().stacksTo(16).rarity(Rarity.EPIC)));
+    public static final RegistryObject<Item>  END_SINGULARITY  = registerItem("end_singularity",
+            ()->new EndSingularityItem(new Item.Properties().stacksTo(16).rarity(Rarity.EPIC)));
+    public static final RegistryObject<Item>  COSMIC_NUCLEUS  = registerItem("cosmic_nucleus",
+            ()->new CosmicNucleusItem(new Item.Properties().stacksTo(16).rarity(Rarity.EPIC)));
 
 
     public static final RegistryObject<Item>  molten_blue_steel_bucket= registerItem("molten_blue_steel_bucket",

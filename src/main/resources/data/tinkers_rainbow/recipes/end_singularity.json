@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    "DGD",
+    " E "
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dragon_breath"
+    },
+    "G": {
+      "item": "tinkers_rainbow:glorious_core"
+    },
+    "E": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "result": {
+    "item": "tinkers_rainbow:end_singularity",
+    "count": 1
+  }
+}
