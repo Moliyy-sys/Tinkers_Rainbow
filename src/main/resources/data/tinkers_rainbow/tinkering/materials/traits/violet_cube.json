@@ -1,15 +1,11 @@
 {
   "default": [
     {
-<<<<<<< HEAD
       "name": "tconstruct:ductile",
       "level": 1
     },
     {
       "name": "tconstruct:enhanced",
-=======
-      "name": "tconstruct:overslime",
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
       "level": 1
     }
   ]

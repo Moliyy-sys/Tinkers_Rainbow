@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material",
-  "ingredient": {
-    "item": "tinkers_rainbow:indigo_scrap"
-  },
-  "material": "tinkers_rainbow:indigo_scrap",
-  "needed": 1,
-  "value": 4
-}

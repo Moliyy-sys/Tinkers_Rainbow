@@ -53,7 +53,6 @@ public class ModFluid {
     public static final ForgeFlowingFluid.Properties molten_gene_metal = new ForgeFlowingFluid.Properties(
             ModFluidTypes.molten_gene_metal, source_molten_gene_metal, flowing_molten_gene_metal).slopeFindDistance(2).levelDecreasePerBlock(2)
             .block(ModBlocks.molten_gene_metal_block).bucket(ModItems.molten_gene_metal_bucket);
-
     public static void registers(IEventBus eventBus)  {
         FLUIDS.register(eventBus);
     }

@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material",
-  "ingredient": {
-    "item": "tinkers_rainbow:green_jelly_ingot"
-  },
-  "material": "tinkers_rainbow:green_jelly_ingot",
-  "needed": 1,
-  "value": 4
-}

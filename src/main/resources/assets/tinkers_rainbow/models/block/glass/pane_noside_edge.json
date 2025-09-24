@@ -1,0 +1,7 @@
+{
+  "parent": "tinkers_rainbow:block/template/pane/noside_edge",
+  "textures": {
+    "edge": "tinkers_rainbow:block/smeltery/blue_steel_glass_top",
+    "pane": "tinkers_rainbow:block/smeltery/blue_steel_glass"
+  }
+}

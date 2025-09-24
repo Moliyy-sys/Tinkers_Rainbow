@@ -1,21 +1,11 @@
-<<<<<<< HEAD
-// 1.20.1	2025-08-15T05:55:45.2868775	Loot Tables
+// 1.20.1	2025-05-10T18:56:27.9802327	Loot Tables
 54f8807e7e1e9d6f7810ba739d7d6fcf40d0501b data/tinkers_rainbow/loot_tables/blocks/blue_steel_block.json
 fca0994278fa0503d794c1da6696a23da3335847 data/tinkers_rainbow/loot_tables/blocks/blue_steel_deepslate_ore.json
+aee0e5effa58fd1c3a9e3523efd7acef80b6ae94 data/tinkers_rainbow/loot_tables/blocks/blue_steel_glass.json
 5dddd9350e9581ea907de0d9d0eb66ec3def2a14 data/tinkers_rainbow/loot_tables/blocks/blue_steel_ore.json
-01dd950ee949d07ae2039f5140445ae24a342c0a data/tinkers_rainbow/loot_tables/blocks/gene_furnace.json
 09961b2e19f41e625ce3f9171b188078fb852c80 data/tinkers_rainbow/loot_tables/blocks/green_jelly_block.json
 e5c8d6c8e733000f59ca35c4e894cd90584c6f23 data/tinkers_rainbow/loot_tables/blocks/molten_blue_steel_block.json
 e82042a6712f70a6fabbf4902c8d4960c4748615 data/tinkers_rainbow/loot_tables/blocks/molten_gene_metal_block.json
-=======
-// 1.20.1	2025-02-20T16:26:31.716193	Loot Tables
-54f8807e7e1e9d6f7810ba739d7d6fcf40d0501b data/tinkers_rainbow/loot_tables/blocks/blue_steel_block.json
-fca0994278fa0503d794c1da6696a23da3335847 data/tinkers_rainbow/loot_tables/blocks/blue_steel_deepslate_ore.json
-5dddd9350e9581ea907de0d9d0eb66ec3def2a14 data/tinkers_rainbow/loot_tables/blocks/blue_steel_ore.json
-09961b2e19f41e625ce3f9171b188078fb852c80 data/tinkers_rainbow/loot_tables/blocks/green_jelly_block.json
-b85af81db9748742669650dc16d36c79a3623d15 data/tinkers_rainbow/loot_tables/blocks/molten_black_opal_block.json
-e5c8d6c8e733000f59ca35c4e894cd90584c6f23 data/tinkers_rainbow/loot_tables/blocks/molten_blue_steel_block.json
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
 6e5966612f68541d33530b8a7e8be87b0857ac90 data/tinkers_rainbow/loot_tables/blocks/molten_indigo_scrap_block.json
 d52036f78797c9ee0d800f7b881e53fc7eecec38 data/tinkers_rainbow/loot_tables/blocks/molten_orange_gem_block.json
 daa27797b5347f8ebeb901756f5c98a62a4610ad data/tinkers_rainbow/loot_tables/blocks/molten_red_nugget_block.json

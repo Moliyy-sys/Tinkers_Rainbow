@@ -1,24 +1,19 @@
-<<<<<<< HEAD
-// 1.20.1	2025-08-15T05:55:45.2848844	Block States: tinkers_rainbow
+// 1.20.1	2025-05-10T18:56:27.979233	Block States: tinkers_rainbow
 416b946413cb1980abc3810d62878d85e67aa4d5 assets/tinkers_rainbow/blockstates/blue_steel_block.json
 a99c57b2ea8ae660c2eae92b845b3da122e8da35 assets/tinkers_rainbow/blockstates/blue_steel_deepslate_ore.json
+1acd0ec7cbeed7878a598a65128ec00fec7eee93 assets/tinkers_rainbow/blockstates/blue_steel_glass.json
 be6de6317ab8c406add5fab2e597d26192f6c60d assets/tinkers_rainbow/blockstates/blue_steel_ore.json
-66dd501f1515826b841235aad805817b7585d7fc assets/tinkers_rainbow/blockstates/gene_furnace.json
-=======
-// 1.20.1	2025-02-12T12:59:48.2621494	Block States: tinkers_rainbow
-416b946413cb1980abc3810d62878d85e67aa4d5 assets/tinkers_rainbow/blockstates/blue_steel_block.json
-a99c57b2ea8ae660c2eae92b845b3da122e8da35 assets/tinkers_rainbow/blockstates/blue_steel_deepslate_ore.json
-be6de6317ab8c406add5fab2e597d26192f6c60d assets/tinkers_rainbow/blockstates/blue_steel_ore.json
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
 54142a6a576ca07c037ee409e370467c0d7e9e5c assets/tinkers_rainbow/blockstates/green_jelly_block.json
 54e4c433a550e7c5849f5a0e163ca205a41b24bc assets/tinkers_rainbow/blockstates/rainbow_block.json
 a7174876673e8ca72385954c6974316e6c473163 assets/tinkers_rainbow/models/block/blue_steel_block.json
 b1253001ce83ec3f28233b65336adbcef22e5e66 assets/tinkers_rainbow/models/block/blue_steel_deepslate_ore.json
+ca8ee65bb18a024dd0fff205af517fb64577b1d8 assets/tinkers_rainbow/models/block/blue_steel_glass.json
 fa361fc9e24323cfd7b3e76eb7dc8dbd6f3fed1e assets/tinkers_rainbow/models/block/blue_steel_ore.json
 be0b37ff65f8e19090a04d0f03e7ee7463533ada assets/tinkers_rainbow/models/block/green_jelly_block.json
 4df16be91eece5abaa68cb422065a726807d007e assets/tinkers_rainbow/models/block/rainbow_block.json
 87a35c5ee0217a877042c6e2f29dae71af7a1be1 assets/tinkers_rainbow/models/item/blue_steel_block.json
 19634c08ab90a524ce53e76e66478d37411a2c51 assets/tinkers_rainbow/models/item/blue_steel_deepslate_ore.json
+69ec034a7757d5e97e5079d2a34c85e3eeceabee assets/tinkers_rainbow/models/item/blue_steel_glass.json
 cd7414670f977387f3da960fa67459dbda375fbc assets/tinkers_rainbow/models/item/blue_steel_ore.json
 af32395812e880272016166814d1de16e81d56a1 assets/tinkers_rainbow/models/item/green_jelly_block.json
 e96da49900fed885acf4ba780f1f28a27f4b8d9a assets/tinkers_rainbow/models/item/rainbow_block.json

@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_fluid",
-  "fluid": {
-    "name": "tinkers_rainbow:molten_black_opal",
-    "amount": 90
-  },
-  "temperature": 1500,
-  "output": "tinkers_rainbow:black_opal"
-}

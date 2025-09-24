@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_melting",
-  "input": "tinkers_rainbow:wakamo_ingot",
-  "temperature": 1800,
-  "result": {
-    "fluid": "tinkers_rainbow:molten_wakamo_ingot",
-    "amount": 90
-  }
-}

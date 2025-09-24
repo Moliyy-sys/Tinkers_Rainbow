@@ -1,11 +1,7 @@
 {
   "default": [
     {
-<<<<<<< HEAD
       "name": "tconstruct:Lightweight",
-=======
-      "name": "tconstruct:overslime",
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
       "level": 1
     }
   ]

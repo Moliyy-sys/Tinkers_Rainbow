@@ -1,6 +1,5 @@
 package com.moliyy.tinkers_rainbow.init;
 
-//import com.moliyy.tinkers_rainbow.Modifiers.modifiers.TeatimeInWartimeAcceleratorEntity;
 import com.moliyy.tinkers_rainbow.Tinkers_Rainbow;
 import com.moliyy.tinkers_rainbow.entity.RedSpider;
 import net.minecraft.resources.ResourceLocation;
@@ -34,5 +33,4 @@ public class ModEntityTypes {
     public static void registerEntityAttributes(EntityAttributeCreationEvent event){
         event.put(REDSPIDER.get(), RedSpider.registerAttributes().build());
     }
-
 }

@@ -1,11 +1,7 @@
 package com.moliyy.tinkers_rainbow.datagen;
 
 import com.moliyy.tinkers_rainbow.Tinkers_Rainbow;
-<<<<<<< HEAD
 import com.moliyy.tinkers_rainbow.init.ModItems;
-=======
-import com.moliyy.tinkers_rainbow.registry.ModItems;
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
 import net.minecraft.advancements.CriterionTriggerInstance;
 import net.minecraft.advancements.critereon.ItemPredicate;
 import net.minecraft.data.PackOutput;
@@ -36,10 +32,7 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .define('a',Items.BLAZE_POWDER)
                 .unlockedBy("has_yellow_dust",hasItem(ModItems.YELLOW_DUST.get()))
                 .save(consumer);
-<<<<<<< HEAD
 
-=======
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
     }
     private CriterionTriggerInstance hasItem(ItemLike item){
         return inventoryTrigger(ItemPredicate.Builder.item().of(item).build());

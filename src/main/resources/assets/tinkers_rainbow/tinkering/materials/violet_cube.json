@@ -1,11 +1,7 @@
 {
   "color": "FFA020F0",
   "fallbacks": [
-<<<<<<< HEAD
     "metal"
-=======
-    "gem_large"
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
   ],
   "generator": {
     "ignoreMaterialStats": false,

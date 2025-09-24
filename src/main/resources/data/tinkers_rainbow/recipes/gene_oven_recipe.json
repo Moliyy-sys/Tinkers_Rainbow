@@ -1,0 +1,11 @@
+{
+  "type": "tinkers_rainbow:gene_oven",
+  "ingredients": [
+    {"item": "minecraft:iron_ingot"},
+    {"item": "minecraft:gold_ingot"},
+    {"item": "minecraft:diamond"},
+    {"item": "minecraft:emerald"}
+  ],
+  "result": {"item": "minecraft:netherite_ingot"},
+  "cookingtime": 400
+}

@@ -11,21 +11,13 @@ loaderVersion="${loader_version_range}" #mandatory This is typically bumped ever
 # Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
 license="${mod_license}"
 # A URL to refer people to when problems occur with this mod
-<<<<<<< HEAD
 #issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
-=======
-issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 # The modid of the mod
 modId="tinkers_rainbow" #mandatory
 # The version number of the mod
-<<<<<<< HEAD
 version="1.0" #mandatory
-=======
-version="1.20.1-1.0" #mandatory
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
 # A display name for the mod
 displayName="Tinkers_Rainbow" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://docs.minecraftforge.net/en/latest/misc/updatechecker/
@@ -72,8 +64,3 @@ mandatory=true
 versionRange="${minecraft_version_range}"
 ordering="NONE"
 side="BOTH"
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f

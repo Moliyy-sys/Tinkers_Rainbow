@@ -1,8 +1,7 @@
 package com.moliyy.tinkers_rainbow.init;
 
-import com.moliyy.tinkers_rainbow.TR_GENE_FURNACE.GENE_BLOCK.Gene_Furnace_Block;
+import com.moliyy.tinkers_rainbow.TRNewBlockEntity.block.Gene_Oven_Block;
 import com.moliyy.tinkers_rainbow.Tinkers_Rainbow;
-
 import net.minecraft.world.level.block.*;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraftforge.registries.DeferredRegister;
@@ -21,8 +20,9 @@ public class ModBlocks {
     public static final RegistryObject<Block> Rainbow_Block = BLOCKS.register("rainbow_block",
             ()->new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
 
-    public static final RegistryObject<Block> Gene_Furnace_Block = BLOCKS.register("gene_furnace",
-            ()->new Gene_Furnace_Block(BlockBehaviour.Properties.copy(Blocks.GLASS).noOcclusion()));
+    public static final RegistryObject<Block> Gene_Oven = BLOCKS.register("gene_oven",
+            ()->new Gene_Oven_Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK )));
+
     public static final RegistryObject<Block> BLUE_STEEL_ORE = BLOCKS.register("blue_steel_ore",
             ()->new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
     public static final RegistryObject<Block> BLUE_STEEL_DEEPSLATE_ORE = BLOCKS.register("blue_steel_deepslate_ore",
@@ -41,6 +41,10 @@ public class ModBlocks {
             ()->new BurningLiquidBlock(ModFluid.source_molten_gene_metal,CommonLiquid,30,6f));
 //    public static final RegistryObject<LiquidBlock> molten_rainbow_ingot_block = BLOCKS.register("molten_rainbow_ingot_block",
 //            ()->new BurningLiquidBlock(ModFluid.source_molten_rainbow_ingot,CommonLiquid,9999,99f));
+
+
+
+
 
 
 }

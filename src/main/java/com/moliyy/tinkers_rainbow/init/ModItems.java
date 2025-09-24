@@ -1,9 +1,6 @@
 package com.moliyy.tinkers_rainbow.init;
 
 import com.google.common.collect.Sets;
-import com.moliyy.tinkers_rainbow.TRMODItems.CosmicNucleusItem;
-import com.moliyy.tinkers_rainbow.TRMODItems.EndSingularityItem;
-import com.moliyy.tinkers_rainbow.TRMODItems.GloriousCoreItem;
 import com.moliyy.tinkers_rainbow.Tinkers_Rainbow;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;
@@ -11,7 +8,6 @@ import net.minecraft.world.food.FoodProperties;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.BucketItem;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.item.Rarity;
 import net.minecraftforge.common.ForgeSpawnEggItem;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -60,14 +56,6 @@ public class ModItems {
     public static final RegistryObject<Item> WAKAMO_INGOT = registerItem("wakamo_ingot",
             ()->new Item(new Item.Properties()));
 
-    public static final RegistryObject<Item>  GLORIOUS_CORE = registerItem("glorious_core",
-            ()->new GloriousCoreItem(new Item.Properties().stacksTo(16).rarity(Rarity.EPIC)));
-    public static final RegistryObject<Item>  END_SINGULARITY  = registerItem("end_singularity",
-            ()->new EndSingularityItem(new Item.Properties().stacksTo(16).rarity(Rarity.EPIC)));
-    public static final RegistryObject<Item>  COSMIC_NUCLEUS  = registerItem("cosmic_nucleus",
-            ()->new CosmicNucleusItem(new Item.Properties().stacksTo(16).rarity(Rarity.EPIC)));
-
-
 
 
     public static final RegistryObject<Item>  molten_blue_steel_bucket= registerItem("molten_blue_steel_bucket",
@@ -87,8 +75,13 @@ public class ModItems {
 
 
 
+
+
     public static final RegistryObject<Item> RED_SPIDER_SPAWN_EGG= registerItem("red_spider_spawn_egg",
             ()->new ForgeSpawnEggItem(ModEntityTypes.REDSPIDER,0xB22222,0xFF69B4,new Item.Properties()));
+
+
+
 
 
     public static final RegistryObject<Item> BLUE_STEEL_BLOCK = registerItem("blue_steel_block",
@@ -103,7 +96,7 @@ public class ModItems {
     public static final RegistryObject<Item> BLUE_STEEL_DEEPSLATE_ORE = registerItem("blue_steel_deepslate_ore",
             ()->new BlockItem(ModBlocks.BLUE_STEEL_DEEPSLATE_ORE.get(),new Item.Properties()));
 
-    public static final RegistryObject<Item> GENE_FURNACE = registerItem("gene_furnace",
-            () -> new BlockItem(ModBlocks.Gene_Furnace_Block.get(), new Item.Properties()));
+    public static final RegistryObject<Item> GENE_OVEN = registerItem("gene_oven",
+            ()->new BlockItem(ModBlocks.Gene_Oven.get(),new Item.Properties()));
 
 }

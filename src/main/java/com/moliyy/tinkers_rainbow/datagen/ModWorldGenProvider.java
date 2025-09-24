@@ -1,13 +1,8 @@
 package com.moliyy.tinkers_rainbow.datagen;
 
 import com.moliyy.tinkers_rainbow.Tinkers_Rainbow;
-<<<<<<< HEAD
 import com.moliyy.tinkers_rainbow.init.ModConfiguredFeatures;
 import com.moliyy.tinkers_rainbow.init.ModPlacedFeatures;
-=======
-import com.moliyy.tinkers_rainbow.registry.ModConfiguredFeatures;
-import com.moliyy.tinkers_rainbow.registry.ModPlacedFeatures;
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
 import net.minecraft.core.HolderLookup;
 import net.minecraft.core.RegistrySetBuilder;
 import net.minecraft.core.registries.Registries;

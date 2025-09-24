@@ -3,7 +3,6 @@
   "pools": [
     {
       "bonus_rolls": 0.0,
-<<<<<<< HEAD
       "conditions": [
         {
           "condition": "minecraft:survives_explosion"
@@ -13,46 +12,6 @@
         {
           "type": "minecraft:item",
           "name": "tinkers_rainbow:raw_blue_steel"
-=======
-      "entries": [
-        {
-          "type": "minecraft:alternatives",
-          "children": [
-            {
-              "type": "minecraft:item",
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "name": "tinkers_rainbow:blocks/blue_steel_ore"
-            },
-            {
-              "type": "minecraft:item",
-              "functions": [
-                {
-                  "enchantment": "minecraft:fortune",
-                  "formula": "minecraft:ore_drops",
-                  "function": "minecraft:apply_bonus"
-                },
-                {
-                  "function": "minecraft:explosion_decay"
-                }
-              ],
-              "name": "tinkers_rainbow:raw_blue_steel"
-            }
-          ]
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
         }
       ],
       "rolls": 1.0

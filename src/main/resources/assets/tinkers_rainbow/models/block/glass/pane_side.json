@@ -1,0 +1,14 @@
+{
+  "parent": "tinkers_rainbow:block/template/pane/side",
+  "connection": {
+    "predicate": "pane",
+    "textures": {
+      "pane": "cornerless_full"
+    }
+  },
+  "loader": "mantle:connected",
+  "textures": {
+    "edge": "tinkers_rainbow:block/smeltery/blue_steel_glass_top",
+    "pane": "tinkers_rainbow:block/smeltery/blue_steel_glass"
+  }
+}

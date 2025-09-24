@@ -2,11 +2,7 @@ package com.moliyy.tinkers_rainbow.datagen;
 
 
 import com.moliyy.tinkers_rainbow.Tinkers_Rainbow;
-<<<<<<< HEAD
 import com.moliyy.tinkers_rainbow.init.ModItems;
-=======
-import com.moliyy.tinkers_rainbow.registry.ModItems;
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
 import net.minecraft.data.PackOutput;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
@@ -33,15 +29,9 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.VIOLET_CUBE);
         simpleItem(ModItems.RAW_BLUE_STEEL);
         simpleItem(ModItems.BLUE_STEEL_NUGGET);
-<<<<<<< HEAD
         simpleItem(ModItems.GENE_METAl);
         simpleItem(ModItems.GENE_METAl_NUGGET);
         simpleItem(ModItems.WAKAMO_INGOT);
-        simpleItem(ModItems.GLORIOUS_CORE);
-        simpleItem(ModItems.END_SINGULARITY);
-        simpleItem(ModItems.COSMIC_NUCLEUS);
-=======
->>>>>>> 981271775e69e87b2613d06676af9d23474e788f
     }
 
     private void simpleItem(RegistryObject<Item> item){
